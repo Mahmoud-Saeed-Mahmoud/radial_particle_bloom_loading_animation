@@ -10,7 +10,9 @@ This Flutter project implements a captivating radial particle bloom loading anim
 
 ## Preview
 
-![Radial Particle Bloom Animation](./assets/preview.gif)
+<p align="center"> <!-- Optional: to center the image -->
+  <img src="./assets/preview.gif" alt="Radial Particle Bloom Animation" width="400"/>
+</p>
 
 ## How it Works
 
